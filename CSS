@@ -1,0 +1,109 @@
+.menu li{
+  display: inline;
+  padding-top: 50px;
+  font-family: monospace;
+  color: #333333;
+}
+.header .menu {
+  position: fixed;
+  width: 1300px;
+  padding: 10px;
+  list-style: none; 
+  text-align: center;
+  margin-top: -30px;
+  background-color: rgba(255, 255, 255, 0.6);
+
+  font-family: monospace;
+  font-size: 15px;
+}
+
+h1 {
+  padding-top: 40px;
+  color: #FFFFFF;
+  font-family: monospace;
+  font-weight: bold;
+}
+.motto {
+  color: #DDDDDD;
+  font-family: monospace;
+}
+body {
+  background-color: #FF99BB;
+}
+
+#first {
+  font-family: monospace;
+  text-align: center;
+  margin: 30px;
+}
+
+#second {
+  font-family: monospace;
+  
+  background-color: #DDDDDD;
+  padding: 60px ; 
+}
+
+#third {
+  font-family: monospace;
+  color: white;
+  text-align: center;  
+  padding-top: 10px;
+}
+
+.work {
+  text-align: center;  
+  margin: 5px;
+  padding: 20px 20px 40px 10px;
+  width: 400px;
+  height: 40px;
+  color: black;
+}
+
+#forth {
+  background-color: #DDDDDD;
+  color: black;
+  padding: 10px;
+}
+
+#fifth li{
+  display: inline;
+  top: 60px;
+  padding: 20px;
+  margin-top: 20px;
+  font-family: monospace;
+  font-color: #333333;
+  font-size: 15px;
+  
+}
+
+.bottom-menu {
+  text-align: center;
+}
+
+.con {
+  display: block;
+  margin: 20px;
+  margin-left: 1000px;
+}
+.copyright{
+  padding: 50px;
+  font-family: monospace;
+  font-size: 10px;
+  text-align: center;
+    
+}
+
+#contact {
+  height: 100px;
+  width: 800px;
+  margin: 30px;
+  border: none;
+  float: left;  
+}
+
+#submit {
+   margin-left: -800px;
+   margin-top: 150px;
+   float: left;
+}
